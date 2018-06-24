@@ -1,6 +1,6 @@
 ## Welcome to My Website
 
-My name is Dustin and I am a student at UC San Diego. 
+Hello! Thanks for visiting my little corner of the internet. My name is Dustin and I was just recently admitted as a student at UC San Diego. Before that, I was studying Computer Science, Mathematics, and Physics at Bakersfield College. In high school, I  became interested in web design, but did it only every-so-often. Now I love programming and try to learn as much as I possibly can. I have taken multiple courses in programming languages and concepts. Feel free to check out my github or Linkedin!
 
 ### Markdown
 
